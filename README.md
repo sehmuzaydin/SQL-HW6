@@ -1,2 +1,1 @@
-# SQL-HW6
-SQL HW6
+
